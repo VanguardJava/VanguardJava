@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.fdb.vanguard.model.Factory;
-import com.fdb.vanguard.model.Person;
 import com.fdb.vanguard.service.FactoryService;
 
 @RestController
